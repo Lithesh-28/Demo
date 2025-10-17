@@ -4,5 +4,7 @@ public class Main {
         Square square = new Square(5);
         System.out.println(rect.area());
         System.out.println(square.area());
+
+        System.out.println("hello from lithesh");
     }
 }
